@@ -23,7 +23,7 @@
     },
     "homepage": "https://github.com/fanhaoyuan/vite-plugin-url-redirect#readme",
     "peerDependencies": {
-        "vite": "^2.9.0"
+        "vite": "^5.0.3"
     },
     "devDependencies": {
         "@fansy/eslint-config": "^1.0.0",
